@@ -1,0 +1,13 @@
+{
+  "name": "YECHIM — Muammodan yechimga",
+  "short_name": "YECHIM",
+  "description": "Kundalik muammolar uchun amaliy yo‘l-yo‘riq va imkoniyatlar.",
+  "lang": "uz-UZ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1459e8",
+  "background_color": "#eef4ff",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
